@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working whit Intelnexo<br>I'm looking collaborate with other developers<br>I'm currently learning GraphQL<br>Ask me about design web <br>I'm looking for team working
+I'm currently working whit Intelnexo<br>I'm looking collaborate with other developers<br>I'm currently learning GraphQL<br>Ask me about design web <br>I'm looking for team working <br> MEAN STACK - LAMP STACK
 
 
 ## 🌐 Socials:
