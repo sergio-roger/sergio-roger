@@ -16,7 +16,7 @@ I'm currently working whit Intelnexo<br>I'm looking collaborate with other devel
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://i.pinimg.com/236x/b3/a8/88/b3a888212aa6295ca3ec4869fa5ebc4b.jpg" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sergio-roger&icon=2&color=1)](https://visitcount.itsvg.in)
